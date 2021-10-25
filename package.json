@@ -1,0 +1,32 @@
+{
+  "name": "hamaam",
+  "version": "1.0.0",
+  "description": "track when you take bath, use the data to help u take bath regularly, even later remind ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikbhal/hamaam.git"
+  },
+  "keywords": [
+    "bath",
+    "hamaam",
+    "clean"
+  ],
+  "author": "Shaik Ikbhal Basha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikbhal/hamaam/issues"
+  },
+  "homepage": "https://github.com/ikbhal/hamaam#readme",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
